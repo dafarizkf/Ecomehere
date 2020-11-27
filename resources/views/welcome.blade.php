@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('layouts.ecommerce')
 
 @section('title')
     <title>Dashboard</title>
